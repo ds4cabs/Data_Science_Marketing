@@ -2,7 +2,7 @@
 
 1. Pharmaceutical Market Analysis and Strategy Development
 
-* Objective: Conduct a comprehensive market analysis for a specific therapeutic area (e.g., oncology, neurology) and develop a strategic marketing plan.
+* Objective: Conduct a comprehensive market analysis for a specific therapeutic area (e.g., immunology, neurology) and develop a strategic marketing plan.
 
 Tasks:
 
