@@ -145,7 +145,7 @@ Tasks:
 
 # Pharmaceutical Marketing in big pharma
 
-## Market Strategy and Positioning
+## 1. Market Strategy and Positioning
 1. **How can we differentiate our products from competitors in the market?**
    - What unique value propositions can we leverage?
    - How do our customers perceive our brand compared to competitors?
@@ -154,7 +154,7 @@ Tasks:
    - How are digital health technologies impacting consumer choices?
    - What shifts are occurring in patient preferences and expectations?
 
-## Product Development and Innovation
+## 2. Product Development and Innovation
 3. **What emerging technologies and innovations can we integrate into our product lines?**
    - How can we stay ahead in the adoption of AI, IoT, and other technologies in healthcare?
    - Which new product features are most desired by our target audience?
@@ -163,7 +163,7 @@ Tasks:
    - What are the potential bottlenecks in our current product development pipeline?
    - How can we improve our collaboration with R&D and regulatory teams?
 
-## Customer Engagement and Experience
+## 3. Customer Engagement and Experience
 5. **What strategies can we implement to enhance customer engagement and loyalty?**
    - How can we better utilize digital marketing and social media?
    - What role does personalized medicine play in our marketing strategy?
@@ -172,7 +172,7 @@ Tasks:
    - What are the pain points in the customer journey?
    - How can we streamline our customer service processes?
 
-## Data Analytics and Insights
+## 4. Data Analytics and Insights
 7. **How can we better leverage data analytics to inform our marketing strategies?**
    - What key metrics should we focus on to measure the success of our campaigns?
    - How can we use predictive analytics to anticipate market trends?
@@ -181,22 +181,22 @@ Tasks:
    - How can we integrate real-world data into our marketing strategies?
    - What are the ethical considerations when using patient data?
 
-## Regulatory and Compliance
+## 5. Regulatory and Compliance
 9. **How can we ensure our marketing practices are compliant with global regulatory standards?**
    - What are the recent changes in healthcare regulations that could impact our marketing?
    - How can we maintain transparency and trust with our stakeholders?
 
-## Competitive Intelligence
+## 6. Competitive Intelligence
 10. **What are our competitors doing that we need to be aware of?**
     - What new marketing tactics are they using?
     - How can we effectively counter their strategies?
 
-## Financial Performance
+## 7. Financial Performance
 11. **How can we optimize our marketing budget for maximum ROI?**
     - Which marketing channels are delivering the best returns?
     - How can we improve our cost efficiency without compromising on quality?
 
-## Talent and Leadership
+## 8. Talent and Leadership
 12. **How can we attract and retain top talent in the marketing team?**
     - What skills are critical for the future of marketing in the healthcare industry?
     - How can we foster a culture of innovation and collaboration within the team?
