@@ -1,4 +1,4 @@
-### Summer Intern Project: Pricing Strategy for Obesity Drugs like Semaglutide
+### Summer Intern Project: Pricing Strategy for Obesity Drugs like Semaglutide- Lusa version
 
 **Objective:** Develop a comprehensive pricing strategy for obesity drugs, focusing on semaglutide, to optimize market penetration and profitability while ensuring patient accessibility.
 
@@ -95,3 +95,6 @@
 - Attend the final presentation and provide constructive feedback.
 
 This project will equip Minji with essential skills in pricing strategy, market research, and stakeholder engagement, making her a strong candidate for roles in big pharma.
+
+
+I want to make a try.
